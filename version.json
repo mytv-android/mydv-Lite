@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.3.9",
-  "apkUrl": "https://github.com/L888JJ/mydv-Lite-release/releases/download/v1.3.9/app-release.apk",
-  "updateLog": "预加载2种模式:极速(很快切换，但可能音画不同步。播放不了已修复)安全(切换没那么快，但不会出现问题)。修复关注列表",
+  "versionCode": 30,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/L888JJ/mydv-Lite-release/releases/download/30/1.4.0.apk",
+  "updateLog": "恢复应用内更新，新增一种预加载模式",
   "forceUpdate": false
 }
