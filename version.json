@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/31/1.4.1.apk",
-  "updateLog": "修复预加载，新增ipad，ios模式",
+  "versionCode": 32,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/1.4.2/1.4.2.apk",
+  "updateLog": "账号切换，缓存管理，优化软件",
   "forceUpdate": false
 }
