@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.4.3",
+  "versionCode": 32,
+  "versionName": "1.4.2",
   "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/1.4.3/app-release-unsigned.4._sign_edit.apk",
   "updateLog": "评论子评论显示点赞量，优化推荐，其它",
   "forceUpdate": false
