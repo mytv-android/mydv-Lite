@@ -1,7 +1,7 @@
 {
   "versionCode": 35,
   "versionName": "1.4.5",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/145/1.4.5_145_jiagu_17061974.apk",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/145/1.4.5_145_jiagu_17061974_sign.apk",
   "updateLog": "评论支持加载更多，子评论加载图片。修复弹幕黑色，修复弹幕抖音原生Emoji显示失败。优化去重，优化精选UI。优化视频播放。优化UI。优化更新的网络问题。其它",
   "forceUpdate": true
 }
