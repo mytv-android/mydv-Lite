@@ -3,5 +3,5 @@
   "versionName": "1.4.7",
   "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/147/1.4.7jiagu.apk",
   "updateLog": "重点优化视频播放，安卓12以上新UI。",
-  "forceUpdate": false
+  "forceUpdate": true
 }
