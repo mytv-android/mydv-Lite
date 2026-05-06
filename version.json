@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.4.6",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/4.6/1.4.6.jiagu.apk",
-  "updateLog": "新增视频时长显示",
+  "versionCode": 37,
+  "versionName": "1.4.7",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/147/1.4.7jiagu.apk",
+  "updateLog": "重点优化视频播放，安卓12以上新UI。",
   "forceUpdate": false
 }
