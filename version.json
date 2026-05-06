@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.4.8",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/148/1.4.8.apk",
-  "updateLog": "继续优化视频播放，新增鼠标滚轮支持，新头像边框",
+  "versionCode": 39,
+  "versionName": "1.4.9",
+  "apkUrl": "基本修复音频快点。菜单添加跳转mydv。如果详情显示6秒，暂停会出现详情",
+  "updateLog": "基本修复音频快点。菜单添加跳转mydv。如果详情显示6秒，暂停会出现详情",
   "forceUpdate": true
 }
