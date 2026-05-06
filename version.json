@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.4.7",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/147/1.4.7jiagu.apk",
-  "updateLog": "重点优化视频播放，安卓12以上新UI。",
+  "versionCode": 38,
+  "versionName": "1.4.8",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/148/1.4.8.apk",
+  "updateLog": "继续优化视频播放，新增鼠标滚轮支持，新头像边框",
   "forceUpdate": true
 }
