@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.4.9",
-  "apkUrl": "基本修复音频快点。菜单添加跳转mydv。如果详情显示6秒，暂停会出现详情",
-  "updateLog": "基本修复音频快点。菜单添加跳转mydv。如果详情显示6秒，暂停会出现详情",
+  "versionCode": 40,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/150/1.5.0.apk",
+  "updateLog": "优化播放，修复经常刷到“获取视频”，修复评论区表情变成表情包，个性化设置添加“自定义菜单”，新增工具Tab(有局域网传文件，启动软件默认音量，设备信息)，美化快进UI。",
   "forceUpdate": true
 }
