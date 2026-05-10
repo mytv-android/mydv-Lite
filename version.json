@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/151/mydv.Lite1.5.1.TV_edit.apk",
-  "updateLog": "修复:“偶现闪退，评论原生表情变表情包(这次是真修好了😭)，评论一直自动加载更多。”",
+  "versionCode": 42,
+  "versionName": "1.5.2",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/152/152.apk",
+  "updateLog": "添加评论自动加载更多修复补丁，优化视频重试",
   "forceUpdate": true
 }
