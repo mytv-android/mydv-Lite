@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "1.5.56",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/156/1.5.6.apk",
-  "updateLog": "",
+  "versionCode": 47,
+  "versionName": "1.5.7",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/157/1.5.7.apk",
+  "updateLog": "新增液态玻璃UI安卓13+，要想视频也有效果需在个性化设置中切换渲染方式",
   "forceUpdate": true
 }
