@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.5.9",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/159/1.5.9.apk",
-  "updateLog": ",",
+  "versionCode": 50,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/160/1.6.0.apk",
+  "updateLog": "修复弹幕重叠，恢复表情包加载。",
   "forceUpdate": true
 }
