@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.6.3",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/163/1.6.3.apk",
-  "updateLog": "修复闪退",
+  "versionCode": 54,
+  "versionName": "1.6.4",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/164/1.6.4.apk",
+  "updateLog": "优化视频播放，恶化去重",
   "forceUpdate": true
 }
