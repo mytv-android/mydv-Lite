@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.6.2",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/162/1.6.2.apk",
-  "updateLog": "个性化设置添加等直链再播开关",
+  "versionCode": 53,
+  "versionName": "1.6.3",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/163/1.6.3.apk",
+  "updateLog": "修复闪退",
   "forceUpdate": true
 }
