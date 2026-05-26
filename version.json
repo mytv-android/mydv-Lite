@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.6.4",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/164/1.6.4.apk",
-  "updateLog": "优化视频播放。减少去重",
+  "versionCode": 55,
+  "versionName": "1.6.5",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/165/1.6.5.apk",
+  "updateLog": "新增高级动画V1，去掉直链开关，个性化设置新增底部呼吸灯，",
   "forceUpdate": true
 }
