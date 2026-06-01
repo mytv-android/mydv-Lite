@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "1.6.7",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/167/1.6.7.apk",
-  "updateLog": "高级动画V2，修复无法下个视频",
+  "versionCode": 58,
+  "versionName": "1.6.8",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/168/1.6.8.apk",
+  "updateLog": "加载有BGM",
   "forceUpdate": true
 }
