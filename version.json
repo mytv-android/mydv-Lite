@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "1.6.6",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/166/1.6.6.apk",
-  "updateLog": "修复PM推荐，优化视频播放，修复快进快退",
+  "versionCode": 57,
+  "versionName": "1.6.7",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/167/1.6.7.apk",
+  "updateLog": "高级动画V2，修复无法下个视频",
   "forceUpdate": true
 }
