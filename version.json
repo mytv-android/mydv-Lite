@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "1.6.8",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/168/1.6.8.apk",
-  "updateLog": "加载有BGM",
+  "versionCode": 59,
+  "versionName": "1.6.9",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/169/1.6.9.apk",
+  "updateLog": "新增查看通知(仅有回复和@)，他人主页私信按扭，可以发私信和收(无历史对话)，搜索用户改成真的。",
   "forceUpdate": true
 }
