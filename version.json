@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "1.6.9",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/169/1.6.9.apk",
-  "updateLog": "新增查看通知(仅有回复和@)，他人主页私信按扭，可以发私信和收(无历史对话)，搜索用户改成真的。",
+  "versionCode": 60,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/170/1.7.0.apk",
+  "updateLog": "新增扫码登录(需性能好)",
   "forceUpdate": true
 }
