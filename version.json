@@ -2,6 +2,6 @@
   "versionCode": 61,
   "versionName": "1.7.1",
   "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/171/1.7.1.apk",
-  "updateLog": "",
+  "updateLog": "优化智能推荐去重。增大扫码登录加载成功率，修复扫码登录缺失参数。优化评论区体验。恢复精选。播放页风格新增优雅",
   "forceUpdate": true
 }
