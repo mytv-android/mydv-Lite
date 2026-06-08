@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/170/1.7.0.apk",
-  "updateLog": "新增扫码登录(需性能好)",
+  "versionCode": 61,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/171/1.7.1.apk",
+  "updateLog": "",
   "forceUpdate": true
 }
