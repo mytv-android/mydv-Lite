@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "V世代(强列建议更新并使用V2模式)",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/174/1.7.4.apk",
-  "updateLog": "**智能推荐 V2**\n\n全新推荐引擎，比传统模式更懂你。\n需在模式中切换\n**有什么不同？**\n- 推荐内容更丰富，来源更广\n- 会根据你的喜好自动调整，越用越准\n- 不需要登录，打开就能用\n\n**它怎么知道我喜欢什么？**\n- 你看得久的内容，会推荐更多类似的\n- 你在菜单里点\"多推荐\"的类型，会优先推送\n- 看完自动跳下一个，不用手动操作\n\n**怎么切换？**\n在设置里切换推荐源即可。如果觉得推荐不准，多点几次\"多推荐\"，它会慢慢学。",
+  "versionCode": 65,
+  "versionName": "1.7.5",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/175/1.7.5.apk",
+  "updateLog": "优化",
   "forceUpdate": true
 }
