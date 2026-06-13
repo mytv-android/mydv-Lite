@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "1.7.8",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/178/1.7.8.apk",
-  "updateLog": "终级优化",
+  "versionCode": 69,
+  "versionName": "1.7.9",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/179/1.7.9.apk",
+  "updateLog": "初修复",
   "forceUpdate": true
 }
