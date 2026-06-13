@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "1.7.7",
-  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/177/1.7.7.apk",
-  "updateLog": "最后优化。\n多推荐按扭和停留时长不会影响推荐，之前搞错了",
+  "versionCode": 68,
+  "versionName": "1.7.8",
+  "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/178/1.7.8.apk",
+  "updateLog": "终级优化",
   "forceUpdate": true
 }
