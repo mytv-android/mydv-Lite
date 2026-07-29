@@ -3,5 +3,5 @@
   "versionName": "1.8.6",
   "apkUrl": "https://github.com/mytv-android/mydv-Lite/releases/download/186/1.8.6.apk",
   "updateLog": "修复",
-  "forceUpdate": true
+  "forceUpdate": false
 }
